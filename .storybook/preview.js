@@ -35,7 +35,7 @@ export const parameters = {
           'Link',
           'List',
           'Menu',
-          'Popover (Dropdown Menu) (content: never hide scrollbar)',
+          'Popover (Drop Menu)',
           'Slideshow',
           'Spinner',
           'Switch',
