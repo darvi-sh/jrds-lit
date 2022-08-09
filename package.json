@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "storybook": "start-storybook -p 6006",
+    "start": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
   "keywords": [],
@@ -20,7 +20,7 @@
     "@storybook/manager-webpack4": "^6.5.9",
     "@storybook/web-components": "^6.5.9",
     "babel-loader": "^8.2.5",
-    "lit-html": "^2.2.7"
-  },
-  "dependencies": {}
+    "lit-html": "^2.2.7",
+    "style-dictionary": "^3.7.1"
+  }
 }
